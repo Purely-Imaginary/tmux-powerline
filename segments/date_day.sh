@@ -1,6 +1,6 @@
 # Prints the name of the current day.
 
 run_segment() {
-	date +"%a"
+	date +"%u"
 	return 0
 }
