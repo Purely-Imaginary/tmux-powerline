@@ -47,7 +47,7 @@ if [ -z $TMUX_POWERLINE_RIGHT_STATUS_SEGMENTS ]; then
 		#"cpu 240 136" \
 #		"load 237 167" \
 		#"tmux_mem_cpu_load 234 136" \
-		"timeleftdc 34 0" \
+#		"timeleftdc 34 0" \
 		"pingGoogle 34 0" \
 		"battery 137 127" \
 #		"weather 37 255" \
